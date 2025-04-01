@@ -34,8 +34,11 @@ Insira o tamanho da senha quando solicitado e veja a senha gerada no terminal.
 
 ## 📷 Exemplo de funcionamento
 ```sh
+**********************************
+** Gerador de Senhas Aleatorias **
+**********************************
 Digite o tamanho da senha: 12
-Sua senha segura é: X#2pBq9!mL4
+Sua senha segura é: o)Bv,tMrS/O,
 ```
 ## 📌 Melhorias futuras
 Adicionar a possibilidade de gerar senhas com requisitos específicos, como pelo menos uma letra maiúscula, um número, etc.
