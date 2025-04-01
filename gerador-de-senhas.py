@@ -24,4 +24,6 @@ lista_de_caracteres = random.choices(conjunto_de_caracteres, k=tamanho_senha)
 senha_gerada = "".join(lista_de_caracteres)
 
 # Exibe a senha gerada
+print("\n========= SENHA ALEATORIA =========")
 print("Sua senha segura é:", senha_gerada)
+print("===================================")
