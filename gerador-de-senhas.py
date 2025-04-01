@@ -1,6 +1,10 @@
 import random
 import string
 
+print("**********************************")
+print("** Gerador de Senhas Aleatorias **")
+print("**********************************")
+
 # Define os tipos de caracteres disponíveis
 letras_maiusculas = string.ascii_uppercase
 letras_minusculas = string.ascii_lowercase
